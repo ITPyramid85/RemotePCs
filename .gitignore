@@ -1,0 +1,9 @@
+.vagrant/*
+b/*
+.DS_Store
+*.qm
+
+# Local build outputs and packaged runtime binaries
+/build/
+/dist/
+/agent/
